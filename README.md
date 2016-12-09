@@ -1,2 +1,2 @@
 # GITTest
--branch-A
+-master
