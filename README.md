@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 # GITTest
--master
-=======
-# GITTest -branch-B
->>>>>>> branch-B
+-branch-C
+this is error
